@@ -1,0 +1,2 @@
+/opt/ctmagent/ctm/sysout #for i in $(ls -lrth product_list_data_sync_sh* | egrep -v "out|err" | cut -d " " -f 9 | tail -n 24) ;  do echo $i ; grep -i failed $i ; echo "------------------" ; done
+

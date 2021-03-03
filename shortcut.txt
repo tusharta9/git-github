@@ -1,0 +1,121 @@
+10.56.34.56
+
+=========================================================================================
+srms.digitalriver.com ==> Release Management System
+https://github.digitalriverws.net/repositories
+https://dc2vmvdi01.mpls.digitalriver.com --> own vdi details
+http://sm.digitalriver.com/web/index.do
+dc2cup01.mpls.digitalriver.com		digitalriver.com
+dc3cuc01.mpls.digitalriver.com
+jump033001.c033.digitalriverws.net
+jump021001.c021.digitalriverws.net
+http://outlook.office365.com/
+https://passwords.digitalriver.com/PassTrixMain.cc
+http://sm.digitalriver.com/
+https://vcac.digitalriverws.net/vCAC/Default.aspx
+https://dc2nismaster01.dc2.digitalriver.com/cgi-bin/pwchange.pl  ===> For NIS Password Changes
+https://passwordreset.digitalriver.com/PRS/Login.aspx?ReturnUrl=%2fPRS%2fDefault.aspx
+https://vpnss.digitalriver.com:7004/console-selfservice/
+http://fc3/fcweb/wip.jsp?name=share-it.com ==> WIP Information 
+mmdns001dc3.c010.digitalriverws.net => Men & Mice Console Login
+https://supermarket.chef.io/cookbooks?utf8=%E2%9C%93&q=memcached
+https://dsa.digitalriver.com/
+
+https://products.geotrust.com/geocenter/reseller/logon.jsp ==> digitalriver/zkuzpM$8  (Geotrust login)
+
+ https://iaas-repoapp-04.c022.digitalriverws.net  == Spacewalk password ==> changeme
+===========================================================================================
+
+vcnc01.c010.digitalriverws.net  ==> This for fireclick/Blue hornet /SAP/Security/Unix/SAP APP/SAP DB
+mcvc01.c010.digitalriverws.net
+dc2c07vcs001.auxil.drivcomm.net
+dc7c07vcs001.auxil.dirvcomm.net
+vc020.c020.digitalriverws.net
+vc010.c010.digitalriverws.net
+vc030.c030.digitalriverws.net
+vc090.c090.digitalriverws.net
+vcac.digitalriverws.net/vcac
+dc5vmvc01.cologne.digitalriver.com
+dc7- dc7c07vcs001.auxil.drivcomm.net
+Wm8_y%Lj-RK=
+
+https://vcac.digitalriverws.net/vcac
+
+confluence/display/serv/DR+Cloud+Vmware+Management+Tools
+===========================================================================================
+
+Hy6<p@FI2vEx
+
+Bigip) dc5bigipc1.digitalriver.com == share-it.com
+
+Ep2+Hs@TjqRx
+(Bigip)dc5bigipc1.digitalriver.com == share-it.de
+(Bigip)dc7bipc1.digitalriver.com == mycommerce.com
+
+me@Tsauc3!
+
+
+Gn2@jvBIF>pn             ===> root@dc5ffgcwa01.int.fatfoogoo.com
+Lu5_Sf%$3ghT             ==>  root@dc5ffgcwa02.int.fatfoogoo.com
+
+===========================================================================================
+DR Ftp Share for software installation
+
+\\ntfiles\common
+
+===========================================================================================
+spacewalk 
+username : ttandukar
+password : C@dbury0018
+
+https://dc3install01.c030.digitalriverws.net ==> 
+https://cldengspcwk02.c030.digitalriverws.net/rhn/systems/SystemEntitlements.do 
+
+Old Password  : c@dbury0015
+
+===========================================================================================
+
+
+server-id            = 29731298
+#skip-slave-start
+#master-host          = 10.50.118.40
+#master-user=slave_user
+#master-password=rahxanai4raiQu9o
+#master-port          = 3306
+#master-connect-retry = 30
+report-host          = zbxdbprd031001.c031.digitalriverws.net
+#slave-skip-errors    = 1146
+
+zbxdbprd031001.c031 
+
+ooch?apoeDooxe0f
+
+
+===========================================================================================
+
+Sftp and ftp account
+========================================================================================
+
+In firechief  ==> WIP Information 
+
+secure.mapilab.com.wipext.digitalriverws.com ==> To check SSL verfication after renewal
+
+=========================================================================================
+Patching Linux
+
+
+$ export CVSROOT=:pserver:ttandulkar@cvsit.digitalriver.com:/opt/cvs/artifact
+
+$ cvs login
+
+$ cvs co -d is_tools art-base/project/it_tools/
+
+$ cd is_tools
+
+====================================================================================
+For Chef
+
+Make sure you pull the latest to your local repo
+Then after your knife environment edits are done
+commit your changes locally and then push them to the repo.
+

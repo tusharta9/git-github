@@ -1,0 +1,209 @@
+Complaint Reference no : 9610
+#18590*00018002059015    == 2253320 / 2253724
+dc2vmvdi01.mpls.digitalriver.com  ==> vmware view  ==> 5.1.0 build 704644
+http://samsts/samsvpn/login.aspx
+http://cybagemis.cybage.com
+http://cybintranet/sites/home/default.aspx
+http://dr-mis.cybage.com/DisplayTimesheet.aspx
+DC2cup01.mpls.digitalriver.com
+https://loadbalancing.digitalriverws.net/
+https://timeentry.digitalriver.com/auth 
+
+http://confluence.mpls.digitalriver.com/display/UNIX/Documentation
+http://confluence.mpls.digitalriver.com/display/UNIX/globalCommerce+Environment+Details
+http://confluence.mpls.digitalriver.com/display/UNIX/DC1+Server+List
+http://confluence.mpls.digitalriver.com/display/itarch/Datacenters+and+platforms
+http://confluence.mpls.digitalriver.com/display/UNIX/Server+Pre-go-live+Checklist
+http://confluence.mpls.digitalriver.com/pages/viewpageattachments.action?pageId=173962&metadataLink=true
+http://confluence.mpls.digitalriver.com/display/UNIX/Admin+Documents
+http://confluence.mpls.digitalriver.com/display/UNIX/Application+Documents
+http://confluence.mpls.digitalriver.com/display/itarch/Pacific+application+and+server+naming+conventions
+http://confluence.mpls.digitalriver.com/display/itarch/Pacific+Environment+Diagrams+%28old+Visio+versions%29pwd
+
+http://confluence.mpls.digitalriver.com/display/EMEA/CURL+Examples
+
+http://appraisals.cybage.com/
+sd32543
+q15729
+
+Latest Cybage asset ID :
+CYB_ISD_DSK_180909_5639
+Vijay Kokate   : 9922070845
+
+find / -mount -size +10000 -type f -mtime -1 -exec du -sh {} \;
+   72  cd /var/log
+ rsync -e ssh --stats --progress -a root@gcwebprd032003.c032.digitalriverws.net:/opt/fs_rsync /opt/
+
+ gzip -9 -c bd02-rsync.log.1 >/tmp/bd02-rsync.log.1.gz
+ logrotate -f /etc/logrotate.conf
+ du -hs *
+less /var/lib/logrotate.status
+ /usr/sbin/logrotate -d /etc/logrotate.conf
+cd /etc/logrotate.d
+====================================
+5081597021911108
+
+citibank 66012484
+citibank 66014653
+
+Complaint no for jumpstation : SD18835
+
+===================================
+conchaytoro
+
+9900204955
+
+988520671
+ 416986167
+===================================
+Password is: 2Hn-hwi38HUIW
+
+10.208.42.28
+
+ 18001088784 -- Vespa tollfree
+
+Ref MIS complaint : 8968
+
+
+
+ https://digitalriver.webex.com/digitalriver/j.php?J=744231225
+
+225 332 0
+
+
+Mulberry Inn
+Survey No. 51, Near Metgutad Post Office, Panchgani Mahabaleswar Road, Mahabaleshwar, Maharashtra 412806, India
+Directions
+ +91 98338 59985
+
+
+
+ftp://kongu.iiat.ru/books/oReilly/
+sys-admin.net/ebooks/unix3/
+sysunconfig.net/unixtips/
+180030008282
+18002668282
+8470152404
+
+JUMPSTATION IP DR : 10.50.123.16
+
+ 
+Installation & Configuration	Packages/Patch/Accounts	   
+Server Maintenance 	Application/ Web Service/Memcache/Controlm	   
+Server Monitoring 	Alerts	   
+Queue Monitoring	HP SM	   
+System Build	Partial / Full	   
+Other 	Miscellaneous	 
+
+
+
+
+==================================================================
+
+What other teams should get involved here? Any suggestion who might be helpful to assist with this issue?
+
+Could you please advise what could be done to prevent this issue going forward?
+
+I will start in on this momentarily and update the thread once completed. 
+----------------------------------------
+Will start in on these and update the thread once complete. 
+
+If I could request that you provide us with another SRC for the work that would be appreciated as well. 
+---------------------------------------
+Great – thanks a lot!
+We’re going to close the incident shortly.
+
+We’ll keep the incident open until final confirmation is received. 
+
+I can also confirm that I can proceed to the checkout page now. But as the issue was intermittent, this doesn’t necessarily mean it’s fully resolved.
+
+@ Anna: did the client confirm yet that their servers are working correctly after the restart?
+
+@ Jenny: would you please check and advise whether you’re still having issues with systest? 
+
+
+Since the issue is directly related we will be closing this as a duplicate of IM26757.
+
+
+Could you please advise on the below?
+
+I previously spoke with Tyler before sending this email. At this time we will not be opening an incident. If you do need the Tech Center to open an incident please reach out to us on this thread. 
+
+Did you have a chance to look into this?
+
+Could you please provide an update on the current status of this issue?
+
+Could you advise who we should engage to answer the question below?
+
+Can you review the below highlighted findings from Mark and advise?
+Could you please provide an update?
+----------------------------------------
+Thank you Scott,
+
+@DBA,
+
+Could you please look further into this and advise?
+
+Thank you,
+-------------------------------------
+I am further working on this and let you know accordingly.
+
+I have truncated that log file, and space is now good to go.
+
+Have you received any update from the client regarding this issue?
+ 
+Looking into this.
+
+
+Could you please verify if everything works as expected now and if you have further concerns before we go ahead and close this incident?
+
+---------------------------------------------------------------------
+Are there other teams which need to involve to help with this task?
+-------------------------------------------------------------------------------------
+Please let us know once the data migration is done to SQL Server.
+------------------------------------------------------------------------------------
+Can you please assist in getting the information below?
+--------------------------------------------------------------------------------------
+
+Please let us know if you need additional information.
+===========================================================
+Did you get a chance to look further into this?
+ 
+Or should we be engaging another team?
+
+-----------------------------------
+Hello Everyone,
+ I will be performing updates to below mentioned servers as per schedule. The update will include restarting the systems. Any alerts for these servers can be safely ignored.
+ I will update accordingly to the thread.
+
+Are you able to continue with the investigations?
+
+Seno is not seeing any issues from the code side.
+
+
+Any ideas what our next steps would be from this point?
+
+Below is the result I gather just for reference while I executing below SQL on different environment thru SQLDeveloper :
+
+Could you please review Shalesh’s email below and advise?
+
+I have googled the error ORA-12592 and on oracle site I have found the below cause and action details.
+
+ 
+Hello Everyone,
+
+Patching has been successfully done on all Systest and Dev/Sandbox servers.
+
+@Rafael à Request you to please provide us the schedule to start patching on Production servers.
+
+Hi Juliana,
+
+On the given link , please let us know which servers are need to be patch and when it will be schedule.
+
+Hi TC, 
+
+We are going to be starting this maintenance at 12 pm. Depending on your preferences, we can start a bridge or if you would like to come up to the war room that is totally fine as well. 
+
+These are now complete!
+Are there any further actions on this incident? What would our next steps be here?
+

@@ -1,0 +1,15 @@
+1. identify java process running under tomcat user:
+ 
+  pgrep -U tomcat
+ 
+2. kill PID returned by the previous command
+ 
+  kill -9 <PID>
+ 
+3. remove tomcat pid file
+ 
+  rm /var/run/tomcat8.pid
+ 
+4. start chef client:
+ 
+  /etc/init.d/chef-client start
