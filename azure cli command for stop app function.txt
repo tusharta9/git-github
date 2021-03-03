@@ -1,0 +1,4 @@
+connect-azaccount
+Get-AzSubscription –SubscriptionName "StreamOne - Production" | Select-AzSubscription
+Stop-AzWebApp -ResourceGroupName amer-east-prod-tng-rg -Name amer-east-prod-tng-function
+#Start-AzWebApp -ResourceGroupName amer-east-prod-tng-rg -Name amer-east-prod-tng-function
