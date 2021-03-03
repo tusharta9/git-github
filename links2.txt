@@ -1,0 +1,10 @@
+<p>My name is <%= node['hostname'] %></p>
+http://www.scmgalaxy.com/tutorials/category/chef/
+
+https://www.devopsschool.com/tutorial/chef/chef-ohai.html
+https://www.devopsschool.com/tutorial/chef/chef-server-ctl.html
+https://www.devopsschool.com/tutorial/chef/
+http://www.scmgalaxy.com/tutorials/how-to-install-chef-development-kitchefdk/
+https://www.devopsschool.com/courses/
+https://www.devopsschool.com/courses/chef/
+https://www.devopsschool.com/tutorial/chef/errors-in-chef.html

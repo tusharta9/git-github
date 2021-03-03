@@ -1,0 +1,22 @@
+https://github.com/google/cadvisor/blob/master/docs/storage/README.md
+https://dzone.com/refcardz/intro-to-docker-monitoring?chapter=6
+
+https://www.udemy.com/course/python-guru-complete-course-projects-hindi-urduhd/learn/lecture/15439610#overview
+
+Why this is popular & why we are not using python version 2 as compared to 3?
+
+Most of in-built libraries in version 3 rather than 2
+It is most robust
+In Python version 2 (most of third parties libraries need to be integrate to run properly
+
+What is libraries?
+
+This is the code which have written by someone.
+
+Anaconda should prefer for all most libraries are available.
+
+spyder is a integrated development environment for run python.
+
+We will use here pycharm for IDE
+
+

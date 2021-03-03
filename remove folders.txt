@@ -1,0 +1,38 @@
+find . -maxdepth 1 -type d -printf '%f\n'
+
+
+find * -type d
+
+
+
+First create a new text file containing the names of every folder you want to keep (not delete), with one folder per line. Save it as to-keep.txt for example:
+
+config
+logs
+Then copy the following into a text editor and save it as rm-exclude.sh so that all three files are in the same directory.
+
+#!/usr/bin/env bash
+
+find "./$1" -maxdepth 1 -type d ! -path "./$1" > to-delete.txt
+
+dels=`cat to-delete.txt`
+readarray -t keeps < to-keep.txt
+
+for keep in "${keeps[@]}"; do
+    dels=`echo "$dels" | grep -v "$keep"`
+done
+
+echo "$dels" > to-delete.txt
+Make it executable using:
+
+chmod +x rm-exclude.sh
+
+Then run it with the following, where PATH is the path to the "application" folder from your PWD. In your example, PATH would simply be application.
+
+./rm-exclude.sh PATH
+
+Finally, check to-delete.txt to make sure nothing is getting deleted that shouldn't be, and run:
+
+readarray -t dels < to-delete.txt; for del in "${dels[@]}"; do rm -rf "$del"; done
+
+If you don't care about checking the contents of the txt file, you can simply copy and paste the above command to the end of rm-exclude.sh so that running the script does everything as long as you have to-keep.txt already filled out. The end result should be that every direct subfolder of application not in to-keep.txt will be deleted, along with their contents.

@@ -1,0 +1,8 @@
+lsof /opt
+  352  df -hT /opt
+  353  vgs
+  354  lvextend -L +1G /dev/mapper/vgusr-lvopt
+  355  xfs_growfs /dev/mapper/vgusr-lvopt
+  356  df -hT /opt
+  357  vgs
+  358  du -sh *
