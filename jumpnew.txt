@@ -1,6 +1,10 @@
 Hello Jumpstart file.
 https://allitbooks.net
+http://www.wowebook.com/
+http://www.wowebook.com/book/java-web-services-running-2nd-edition/
+https://www.mytectra.com/interview-question/managerial-round-interview-questions-and-answers
 
+https://hkrtrainings.com/forgerock-interview-questions
 ForgeRock
 https://aws.amazon.com/blogs/startups/building-a-hotdog-detecting-app-on-aws-yes-really/
 https://backstage.forgerock.com/docs/openam/13/OpenAM-13-Admin-Guide.pdf
@@ -8,15 +12,29 @@ https://backstage.forgerock.com/docs/openam/13.5/OpenAM-13.5-Getting-Started.pdf
 https://backstage.forgerock.com/docs/openam/13.5/OpenAM-13.5-Dev-Guide.pdf
 https://in.linkedin.com/in/arun-arun-99697a130
 https://www.forgerock.com/industries/financial-services/open-banking
+https://medium.com/@vishakh90/forgerock-openam-concepts-installation-hands-on-df1664c451c7
+https://narayanatutorial.com/forgerock
+https://backstage.forgerock.com/docs/openam/13.5/OpenAM-13.5-Getting-Started.pdf
+https://developer.forgerock.com/docs/sdks/ios/tutorial
+https://backstage.forgerock.com/docs/forgeops/7/start-here.html
+https://backstage.forgerock.com/docs/forgeops/7/index-forgeops.html
 
 Webinar 
+https://hkrtrainings.com/forgerock-tutorial
+https://hkrtrainings.com/community
+https://backstage.forgerock.com/docs/
 https://www.forgerock.com/resources/webinars
 https://go.forgerock.com/Series-1-Identity-Solution-Bytes-On-Demand.html
 https://go.forgerock.com/SolutionBytesSeries2_RegistrationLP.html
+https://backstage.forgerock.com/docs/openam/13.5/getting-started/
 
 Linux OS Techniques 
 https://ostechnix.com/tuptime-a-cli-utility-to-find-linux-system-uptime/#:~:text=Usually, we use the 'Uptime' command to find,for the past 1, 5, and 15 minutes.
-
+https://ostechnix.com/how-to-list-the-members-of-a-group-in-linux/
+https://ostechnix.com/quick-tip-how-to-find-out-which-groups-a-user-belongs-to/
+https://ostechnix.com/find-sudo-users-linux-system/
+https://ostechnix.com/category/monitoring-tools/
+https://ostechnix.com/category/trouble-shooting/
 Free Training Courses
 https://www.exitcertified.com/search/SOLRSearchForm?terms=free&action_SOLRSearchForm_submit=Search&locale=en_US&filter=Course&RevertFilterAllowed=1&HasSearched=0
 https://github.com/aws-samples/serverless-hotdog-detector
