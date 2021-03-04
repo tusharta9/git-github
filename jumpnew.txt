@@ -1,4 +1,29 @@
 Hello Jumpstart file.
+https://allitbooks.net
+
+ForgeRock
+https://aws.amazon.com/blogs/startups/building-a-hotdog-detecting-app-on-aws-yes-really/
+https://backstage.forgerock.com/docs/openam/13/OpenAM-13-Admin-Guide.pdf
+https://backstage.forgerock.com/docs/openam/13.5/OpenAM-13.5-Getting-Started.pdf
+https://backstage.forgerock.com/docs/openam/13.5/OpenAM-13.5-Dev-Guide.pdf
+https://in.linkedin.com/in/arun-arun-99697a130
+https://www.forgerock.com/industries/financial-services/open-banking
+
+Webinar 
+https://www.forgerock.com/resources/webinars
+https://go.forgerock.com/Series-1-Identity-Solution-Bytes-On-Demand.html
+https://go.forgerock.com/SolutionBytesSeries2_RegistrationLP.html
+
+Linux OS Techniques 
+https://ostechnix.com/tuptime-a-cli-utility-to-find-linux-system-uptime/#:~:text=Usually, we use the 'Uptime' command to find,for the past 1, 5, and 15 minutes.
+
+Free Training Courses
+https://www.exitcertified.com/search/SOLRSearchForm?terms=free&action_SOLRSearchForm_submit=Search&locale=en_US&filter=Course&RevertFilterAllowed=1&HasSearched=0
+https://github.com/aws-samples/serverless-hotdog-detector
+https://www.exitcertified.com/it-training/forgerock
+https://www.exitcertified.com/it-training/forgerock/access-management/access-management-essentials-on-demand-59606-detail.html
+
+
 http://www.ctmguru.com/search/label/Control-M%20GUI%27s#
 http://www.opensourceforu.com/2014/12/setting-mail-server-can-fun/
 http://www.opensourceforu.com/2015/01/getting-started-greencloud-simulator/
